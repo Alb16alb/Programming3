@@ -62,6 +62,7 @@ function draw() {
 
     for(var i in grassArr) {
         grassArr[i].mul();
+        
     }
 
     for(var i in xotakerArr) {
